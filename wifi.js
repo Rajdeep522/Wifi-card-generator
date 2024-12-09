@@ -23,3 +23,4 @@ function printCard(){
 
 // Initial QR code generation
 generateQR();
+
